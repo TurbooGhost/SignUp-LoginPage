@@ -35,3 +35,7 @@
 
 ![Video_2023-02-20_220853](https://user-images.githubusercontent.com/61920916/220261875-2cea861b-8da2-4a99-9ba8-7bd8876c69f2.gif)
 
+# Sign up for newsletter
+
+![Screenshot 2023-02-20 221333](https://user-images.githubusercontent.com/61920916/220262368-7709c6b8-948f-4ff9-b077-7636de272cd5.png)
+
